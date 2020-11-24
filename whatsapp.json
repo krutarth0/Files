@@ -9,35 +9,11 @@
       "color": ""
     },
     {
-      "mediaType": "text",
-      "media": "",
-      "duration": "4.0",
-      "caption": "Did you know the Earth was flat until God provided an update?",
-      "when": "3 hours ago",
-      "color": "#303f9f"
-    },
-    {
-      "mediaType": "video",
-      "media": "https://github.com/krutarth0/Files/blob/main/Untitled_2.mp4?raw=true",
-      "duration": "11.0",
-      "caption": "Happy halloween.",
-      "when": "2 hours ago",
-      "color": ""
-    },
-    {
       "mediaType": "image",
       "media": "https://media.giphy.com/media/XcA8krYsrEAYXKf4UQ/giphy.gif",
       "duration": "5.0",
       "caption": "Paaawwww 🐧",
       "when": "1 hours ago",
-      "color": ""
-    },
-    {
-      "mediaType": "video",
-      "media": "https://github.com/krutarth0/Files/blob/main/Untitled3_2.mp4?raw=true",
-      "duration": "14.0",
-      "caption": "heeyyylo!! smileee.",
-      "when": "40 minutes ago",
       "color": ""
     },
     {
@@ -49,28 +25,13 @@
       "color": ""
     },
     {
-      "mediaType": "text",
-      "media": "",
-      "duration": "4.0",
-      "caption": "Jesse pink man is totally underrated. This guy!! 😁😁😂😂",
-      "when": "7 minutes ago",
-      "color": "#d32f2f"
-    },
-    {
       "mediaType": "image",
       "media": "https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif",
       "duration": "5.0",
       "caption": "I'm so happy. Today turned out to be the best. Woohhh!!🤣🤣",
       "when": "6 minutes ago",
       "color": ""
-    },
-    {
-      "mediaType": "text",
-      "media": "",
-      "duration": "4.0",
-      "caption": "I hope you enjoyed the stories.",
-      "when": "just now",
-      "color": "#ff8f00"
     }
+    
   ]
 }
